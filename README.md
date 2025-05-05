@@ -13,9 +13,13 @@ Welcome to my GitHub profile! I'm a passionate DevOps with expertise in Ansible,
 
 ## 📊 GitHub Stats
 <!-- GitHub Stats Cards -->
-![nicat-m's Stats](https://github-readme-stats.vercel.app/api?username=nicat-m&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 
-![nicat-m's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicat-m&theme=ayu-mirage&hide_border=true)
+<p align="center">
+  ![nicat-m's Stats](https://github-readme-stats.vercel.app/api?username=nicat-m&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+  ![nicat-m's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicat-m&theme=ayu-mirage&hide_border=true)
+  ![nicat-m's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicat-m&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+</p>
+
 
 ## 📫 How to reach me
 - LinkedIn: [NijatMansimov](https://www.linkedin.com/in/nijat-mansimov-devops/)
