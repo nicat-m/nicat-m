@@ -1,13 +1,15 @@
-# Hi there, I'm [Nijat Mansimov]! 👋
+# Hi there, I'm Nijat Mansimov! 👋
 
 Welcome to my GitHub profile! I'm a passionate DevOps with expertise in Ansible, Terraform, AWS, Kafka, Kubernetes, Elasticsearch, Java, Python, Bash
 
 ## 🛠️ Technologies & Tools
+**Management Tools:** Ansible, Terraform  
 **Languages:** Bash, Python, Java  
-**Cloud Services:** AWS,Azure
-**DevOps Tools:** Docker, Kubernetes, Helm, Istio
-**Databases:** Elasticsearch
-**DataStreaming:** Kafka, Debezium
+**Cloud Services:** AWS,Azure  
+**DevOps Tools:** Docker, Kubernetes, Helm, Istio  
+**Databases:** Elasticsearch  
+**DataStreaming:** Kafka, Debezium  
+**CI/CD Tools:** Gitlab CI/CD, Jenkins, Github
 
 ## 📊 GitHub Stats
 <!-- GitHub Stats Cards -->
@@ -17,6 +19,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps with expertise in Ansible,
 </p>
 
 ## 📫 How to reach me
-- LinkedIn: [nicat-m](https://www.linkedin.com/in/nijat-mansimov-devops/)
+- LinkedIn: [NijatMansimov](https://www.linkedin.com/in/nijat-mansimov-devops/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and contribute if you find something interesting.
