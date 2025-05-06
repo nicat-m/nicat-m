@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps with expertise in Ansible,
 
 ## 🛠️ Technologies & Tools
 * **Management Tools:** Ansible, Terraform  
-* **Languages:** Bash, Python, Java  
+* **Programming:** Bash, Python, Java  
 * **Cloud Services:** AWS,Azure  
 * **DevOps Tools:** Docker, Kubernetes, Helm, Istio  
 * **Databases:** Elasticsearch  
