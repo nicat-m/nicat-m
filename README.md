@@ -1,6 +1,6 @@
 # Hi there, I'm Nijat Mansimov! 👋
 
-Welcome to my GitHub profile! I'm a DevOps with expertise in Ansible, Terraform, AWS, Kafka, Kubernetes, Elasticsearch, Java, Python, Bash
+Welcome to my GitHub profile! I'm a professional DevOps Engineer with expertise in Ansible, Terraform, AWS, Kafka, Kubernetes, Elasticsearch, Java, Python, Bash
 
 ## 🛠️ Technologies & Tools
 * **Management Tools:** Ansible, Terraform  
