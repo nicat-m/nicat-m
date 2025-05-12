@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a professional DevOps Engineer with expertise 
 * **Programming:** Bash, Python, Java  
 * **Cloud Services:** AWS,Azure  
 * **DevOps Tools:** Docker, Kubernetes, Helm, Istio, GIT  
-* **Databases & Logging:** Elasticsearch, Logstash, Fluentd, Kibana  
+* **Logging:** Elasticsearch, Logstash, Fluentd, Kibana  
 * **DataStreaming:** Kafka, Debezium, Kafka Connect  
 * **CI/CD Tools:** Gitlab CI/CD, Jenkins, Github Actions  
 * **Monitoring Tools:** Prometheus, Grafana, Elasticsearch APM, Kuma, Datadog  
