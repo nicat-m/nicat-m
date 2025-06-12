@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a professional DevOps Engineer with expertise 
 * **Management Tools:** Ansible, Terraform  
 * **Programming:** Bash, Python, Java  
 * **Cloud Services:** AWS,Azure  
-* **DevOps Tools:** Docker, Kubernetes, Helm, Istio, GIT  
+* **DevOps Tools:** Docker, Kubernetes, Helm, Nexus Sonatype, GIT  
 * **Logging:** Elasticsearch, Logstash, Fluentd, Kibana  
 * **DataStreaming:** Kafka, Debezium, Kafka Connect  
 * **CI/CD Tools:** Gitlab CI/CD, Jenkins, Github Actions  
