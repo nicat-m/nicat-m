@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a professional DevOps Engineer with expertise in Ansible, Terraform, AWS, Kafka, Kubernetes, Elasticsearch, Java, Python, Bash
 
-https://komarev.com/ghpvc/?username=your-github-username&color=green
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ## 🛠️ Technologies & Tools
 * **Management Tools:** Ansible, Terraform  
