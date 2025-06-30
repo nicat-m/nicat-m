@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a professional DevOps Engineer with expertise in Ansible, Terraform, AWS, Kafka, Kubernetes, Elasticsearch, Java, Python, Bash
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 ## 🛠️ Technologies & Tools
 * **Management Tools:** Ansible, Terraform  
 * **Programming:** Bash, Python, Java  
@@ -23,6 +25,3 @@ Welcome to my GitHub profile! I'm a professional DevOps Engineer with expertise 
 - LinkedIn: [NijatMansimov](https://www.linkedin.com/in/nijat-mansimov-devops/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and contribute if you find something interesting.
-
-## Info:
-![](https://komarev.com/ghpvc/?username=nicat-m&color=green)
